@@ -3,7 +3,8 @@ def Summ(a, b):
     print(f"{a} + {b} = {result}")
 
 def Minus(a, b):
-    print(f"")
+    result = a - b
+    print(f"{a} - {b} = {result}")
 
 def Mult(a, b):
     print("")
