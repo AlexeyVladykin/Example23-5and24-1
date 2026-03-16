@@ -4,7 +4,8 @@ def Summ(a, b):
 
 def Minus(a, b):
     result = a - b
-    print(f"{result}")
+    print(f"{a} - {b} = {result}")
+
 
 def Mult(a, b):
     print("")
