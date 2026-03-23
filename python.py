@@ -6,7 +6,6 @@ def Minus(a, b):
     result = a - b
     print(f"{a} - {b} = {result}")
 
-
 def Mult(a, b):
     print("")
 
